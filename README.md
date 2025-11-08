@@ -14,27 +14,34 @@ Elle se distingue par ses performances élevées, ses prix compétitifs, et ses 
 Elle est souvent utilisée pour l’analyse de données, le développement d’applications web et l’apprentissage automatique.
 
                                                                             Tableau comparatif-difference:
+                                                                            
 
                                                                             
-                  AWS (Amazon Web Services)                                            Microsoft Azure                                                          Google Cloud Platform (GCP)
+                AWS (Amazon Web Services)                                            Microsoft Azure                                                          Google Cloud Platform (GCP)
+                
                   
                                                                     
 Créateur	               Amazon	                                                             Microsoft	                                                                 Google
 
 
+
 Lancement	 :               2006	                                                                2010	                                                                    2011
+
 
 
 Interface :         Complexe mais complète                                        	Facile pour les utilisateurs Windows                                      	Très simple et intuitive
 
 
+
 Forces principales: 	Large choix de services ,fiabilité                                  Intégration Microsoft, sécurité	                                     IA, Big Data, performance
 
 
-Tarification:  	Paiement à l’usage (Pay-as-you-use)	                                     Paiement flexible et intégré à Microsoft	                       Tarification simple et transparente
+
+Tarification:  	Paiement à l’usage (Pay-as-you-use)	                                     Paiement flexible et intégré à Microsoft	                     Tarification simple et transparente
 
 
-Régions de déploiement:	Le plus grand réseau mondial                                         	Réseau étendu                                              Moins de régions mais très rapides
+
+Régions de déploiement:	Le plus grand réseau mondial                                         	Réseau étendu                                            Moins de régions mais très rapides
 
 
 
